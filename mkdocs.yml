@@ -9,6 +9,7 @@ theme:
 
 nav:
   - Home: index.md
+
   - Release Notes:
       - Overview: release-notes/index.md
       - 2026.1: release-notes/v2026-1.md
@@ -16,12 +17,25 @@ nav:
       - 2025.11: release-notes/v2025-11.md
       - 2025.10: release-notes/v2025-10.md
       - 2025.9: release-notes/v2025-9.md
+
   - User Guides:
+      - Overview: user-guides/index.md
       - Forecasting Overview: user-guides/forecasting-overview.md
+
   - How-To Guides:
+      - Overview: how-to/index.md
       - Create a Budget: how-to/create-budget.md
-  - FAQs: faqs/index.md
-  - Troubleshooting: troubleshooting/index.md
-  - UX Copy: ux-copy/modals.md
-  - Release Highlights: release-highlights/index.md
+
+  - FAQs:
+      - Overview: faqs/index.md
+
+  - Troubleshooting:
+      - Overview: troubleshooting/index.md
+
+  - UX Copy:
+      - Overview: ux-copy/index.md
+      - Modals: ux-copy/modals.md
+
+  - Release Highlights:
+      - Overview: release-highlights/index.md
 
