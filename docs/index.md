@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Technical Writing Portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to my **Docs-as-Code documentation portfolio**.
 
-## Commands
+This site demonstrates how I plan, write, review, and publish
+enterprise SaaS documentation using **Git, Markdown, and MkDocs**.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## What this portfolio showcases
+- Release Notes and What’s New
+- User Guides and Online Help
+- How-To Guides
+- FAQs and Troubleshooting
+- UX Microcopy patterns
+- Release Highlights video scripting
 
-## Project layout
+## Experience represented
+This portfolio reflects **14+ years of experience** documenting
+complex enterprise and cloud-based SaaS products and leading
+technical writing teams.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> All content is sample documentation created for demonstration purposes only.
