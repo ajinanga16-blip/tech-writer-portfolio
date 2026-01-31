@@ -56,8 +56,28 @@ nav:
 
   - Release Highlights:
       - Overview: release-highlights/index.md
-      
   - Documentation Strategy:
       - Strategy & Metrics: documentation-strategy/index.md
 
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.progressbar
+  - pymdownx.tasklist
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.emoji
+  - pymdownx.magiclink
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.arithmatex
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
 
