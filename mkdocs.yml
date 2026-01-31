@@ -10,6 +10,7 @@ theme:
 nav:
   - Home: index.md
   - Release Notes:
+      - Overview: release-notes/index.md
       - 2026.1: release-notes/v2026-1.md
       - 2025.12: release-notes/v2025-12.md
       - 2025.11: release-notes/v2025-11.md
