@@ -24,6 +24,14 @@ nav:
       - "2025.10": release-notes/v2025-10.md
       - "2025.9": release-notes/v2025-9.md
 
+  - What’s New:
+      - Overview: whats-new/index.md
+      - "2026.1": whats-new/2026-1.md
+      - "2025.12": whats-new/2025-12.md
+      - "2025.11": whats-new/2025-11.md
+      - "2025.10": whats-new/2025-10.md
+      - "2025.9": whats-new/2025-9.md
+
   - User Guides:
       - Overview: user-guides/index.md
       - Forecasting Overview: user-guides/forecasting-overview.md
