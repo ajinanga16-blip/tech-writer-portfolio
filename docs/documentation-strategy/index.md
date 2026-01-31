@@ -119,23 +119,17 @@ flowchart LR
   D --> E[Publish]
   E --> F[Analyze Usage]
   F --> C
-### AI-driven documentation modernization
-graph TD
-  A[Manual Authoring] -->|AI Drafts| B[Accelerated Writing]
-  B --> C[Human Review]
-  C --> D[Published Content]
-  D --> E[Analytics Feedback]
-  E --> B
+mermaid
 
-AI is used to accelerate documentation workflows while maintaining editorial quality through human review.
 
 ### Operational KPIs
-| Metric                           | Result            |
-| -------------------------------- | ----------------- |
-| Release documentation readiness  | 100%              |
-| Avg. content update turnaround   | < 2 business days |
-| Help creation time (AI-assisted) | 80 hrs → 16 hrs   |
-| Daily help interactions          | 44 → 120+         |
+
+| Metric | Result |
+|------|--------|
+| Release documentation readiness | 100% |
+| Avg. content update turnaround | < 2 business days |
+| Help creation time (AI-assisted) | 80 hrs → 16 hrs |
+| Daily help interactions | 44 → 120+ |
 
 ### Content quality metrics
 
