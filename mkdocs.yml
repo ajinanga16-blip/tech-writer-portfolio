@@ -10,7 +10,11 @@ theme:
 nav:
   - Home: index.md
   - Release Notes:
-      - Version 2025.1: release-notes/v2025-1.md
+      - 2026.1: release-notes/v2026-1.md
+      - 2025.12: release-notes/v2025-12.md
+      - 2025.11: release-notes/v2025-11.md
+      - 2025.10: release-notes/v2025-10.md
+      - 2025.9: release-notes/v2025-9.md
   - User Guides:
       - Forecasting Overview: user-guides/forecasting-overview.md
   - How-To Guides:
@@ -19,3 +23,4 @@ nav:
   - Troubleshooting: troubleshooting/index.md
   - UX Copy: ux-copy/modals.md
   - Release Highlights: release-highlights/index.md
+
