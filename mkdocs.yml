@@ -1,0 +1,21 @@
+site_name: Technical Writing Portfolio
+site_description: Docs-as-Code portfolio showcasing enterprise SaaS documentation
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+
+nav:
+  - Home: index.md
+  - Release Notes:
+      - Version 2025.1: release-notes/v2025-1.md
+  - User Guides:
+      - Forecasting Overview: user-guides/forecasting-overview.md
+  - How-To Guides:
+      - Create a Budget: how-to/create-budget.md
+  - FAQs: faqs/index.md
+  - Troubleshooting: troubleshooting/index.md
+  - UX Copy: ux-copy/modals.md
+  - Release Highlights: release-highlights/index.md
