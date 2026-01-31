@@ -56,4 +56,8 @@ nav:
 
   - Release Highlights:
       - Overview: release-highlights/index.md
+      
+  - Documentation Strategy:
+      - Strategy & Metrics: documentation-strategy/index.md
+
 
