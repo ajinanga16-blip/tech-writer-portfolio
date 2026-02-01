@@ -88,7 +88,7 @@ adoption, and business impact.
 - **Support ticket deflection:** ▰▰▰▰▰▰▱▱▱▱ **25%**
 - **Help engagement growth:** ▰▰▰▰▰▰▰▱▱▱ **30% YoY**
 
----
+
 
 ## Documentation lifecycle efficiency
 
@@ -123,7 +123,7 @@ and continuously improved based on real usage data.
    - Usage analytics and support insights reviewed
    - Content refined based on real-world behavior
 
----
+
 
 ## AI-assisted documentation modernization
 
@@ -137,7 +137,7 @@ editorial judgment.
 - **Content gap identification:** Search analysis and stale content detection
 - **Human-in-the-loop governance:** All AI output reviewed and owned by writers
 
----
+
 
 ## Operational KPIs
 
@@ -158,7 +158,7 @@ These metrics track documentation effectiveness and operational health.
 - **Support ticket deflection:** 25% reduction
 - **Daily help interactions:** 44 → 120+
 
----
+
 
 ## Continuous improvement approach
 
