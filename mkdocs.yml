@@ -40,7 +40,6 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.sections
     - navigation.expand
 
 nav:
