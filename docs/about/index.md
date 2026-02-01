@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/ankush-profile.jpg" alt="Ankush Jinanga" width="220" style="border-radius: 12px;">
+</p>
+
 # About Me
 
 I am a Documentation Strategy Leader with 14+ years of experience building,
@@ -20,6 +24,13 @@ Engineering, UX, and Support teams.
 ---
 
 ## Career timeline
+<p align="center">
+  <img src="../assets/career-timeline.png" alt="Career timeline" width="700">
+</p>
+<p align="center">
+  <em>Career progression across enterprise SaaS and platform documentation roles</em>
+</p>
+
 
 ### Manager, Technical Writing — Planful  
 **Oct 2020 – Dec 2025**
