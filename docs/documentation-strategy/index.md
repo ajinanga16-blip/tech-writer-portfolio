@@ -96,7 +96,6 @@ Documentation effectiveness is measured using a combination of
 quantitative and qualitative metrics.
 
 ---
----
 
 ## Documentation impact at a glance
 
@@ -106,8 +105,6 @@ quantitative and qualitative metrics.
 - **Content quality score:** ▰▰▰▰▰▰▰▰▰▱ **90%+**
 - **Support ticket deflection:** ▰▰▰▰▰▰▱▱▱▱ **25%**
 - **Help engagement growth:** ▰▰▰▰▰▰▰▱▱▱ **30% YoY**
-
----
 
 ---
 
