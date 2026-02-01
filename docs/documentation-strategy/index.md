@@ -109,27 +109,94 @@ quantitative and qualitative metrics.
 
 ---
 
-### Documentation lifecycle efficiency
+---
 
-```mermaid
-flowchart LR
-  A[Feature Design] --> B[UX Copy Review]
-  B --> C[Draft Documentation]
-  C --> D[Peer Review]
-  D --> E[Publish]
-  E --> F[Analyze Usage]
-  F --> C
-mermaid
+## Documentation lifecycle efficiency
 
+**Feature Design → UX Copy → Draft → Review → Publish → Measure → Improve**
 
-### Operational KPIs
+This lifecycle ensures documentation is created early, reviewed thoroughly,
+and continuously improved based on real usage data.
 
-| Metric | Result |
-|------|--------|
-| Release documentation readiness | 100% |
-| Avg. content update turnaround | < 2 business days |
-| Help creation time (AI-assisted) | 80 hrs → 16 hrs |
-| Daily help interactions | 44 → 120+ |
+### How documentation flows through a release
+
+**1. Feature design**
+- Documentation impact is assessed during feature planning
+- Target users, workflows, and risks are identified early
+
+**2. UX copy alignment**
+- Microcopy is reviewed alongside UI designs
+- Terminology and labels are finalized before development completion
+
+**3. Draft documentation**
+- Core user workflows are documented in parallel with development
+- Content is written using modular, reusable structures
+
+**4. Review and validation**
+- Peer and SME reviews validate accuracy and completeness
+- Feedback is incorporated before release readiness sign-off
+
+**5. Publish with release**
+- Documentation is published in sync with product releases
+- Release Notes and What’s New are finalized together
+
+**6. Measure and improve**
+- Usage analytics and support insights are reviewed
+- Content is refined based on real-world behavior
+
+---
+
+## AI-assisted documentation modernization
+
+AI is used as a **productivity accelerator**, not a replacement for editorial judgment.
+
+### Where AI adds value
+
+**Content acceleration**
+- Faster first drafts for repetitive or structured content
+- Reduced turnaround time for updates and enhancements
+
+**Consistency and clarity**
+- Terminology alignment across large documentation sets
+- Simplification of complex technical explanations
+
+**Content gap identification**
+- Analysis of search terms with no results
+- Identification of outdated or low-performing pages
+
+**Human-in-the-loop governance**
+- All AI-generated content is reviewed and edited by writers
+- Final accountability remains with the documentation team
+
+---
+
+## Operational KPIs
+
+These metrics are used to track documentation effectiveness and operational health.
+
+### Delivery and quality
+
+- **Release documentation readiness:** 100%
+- **Content quality score:** 90%+ (peer review checklist)
+- **Broken link rate:** < 1%
+
+### Efficiency and scale
+
+- **Average content update turnaround:** < 2 business days
+- **Help creation time (AI-assisted):** 80 hrs → 16 hrs
+- **Parallel updates enabled:** Yes (modular content)
+
+### Adoption and impact
+
+- **Help engagement growth:** 30% YoY
+- **Support ticket deflection:** 25% reduction
+- **Daily help interactions:** 44 → 120+
+
+---
+
+> These metrics demonstrate how documentation supports product adoption,
+> reduces support dependency, and scales efficiently with the business.
+
 
 ### Content quality metrics
 
