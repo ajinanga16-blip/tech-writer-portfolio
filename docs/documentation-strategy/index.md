@@ -6,8 +6,6 @@ enterprise SaaS documentation using a Docs-as-Code model.
 The goal of documentation is not just completeness—but **clarity,
 adoption, and measurable business impact**.
 
----
-
 ## Documentation philosophy
 
 My documentation strategy is guided by four core principles.
@@ -49,8 +47,6 @@ Documentation success is measured by how well it:
 - Improves feature adoption
 - Builds trust in the product
 
----
-
 ## Content planning and governance
 
 ### Release-driven documentation
@@ -71,8 +67,6 @@ Documentation follows defined standards for:
 - Task completeness
 - Accessibility and readability
 - UX microcopy tone and clarity
-
----
 
 ## Metrics and measurement
 
@@ -171,7 +165,6 @@ Documentation is continuously improved through:
 Gaps identified through metrics directly inform future documentation
 priorities.
 
----
 
 ## Outcome-driven documentation
 
