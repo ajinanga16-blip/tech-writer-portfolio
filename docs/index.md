@@ -10,44 +10,65 @@ impact.
 
 ## 👋 Start here
 
-### 📘 About Me
-Learn about my background, career progression, and documentation leadership
-experience across enterprise and SaaS products.  
-👉 [Explore my journey and impact](about/)
-
-### 🧭 Documentation Strategy & Metrics
-See how I approach documentation as a product — from governance and planning
-to KPIs, analytics, and AI-assisted workflows.  
-👉 [View strategy and metrics](documentation-strategy/)
-
-### 🗂 Release Notes
-Examples of enterprise-grade release notes that balance completeness,
-clarity, and user relevance across multiple releases.  
-👉 [Browse release notes](release-notes/)
-
-### ✨ What’s New
-User-focused summaries highlighting key enhancements, improvements, and
-feature updates for each release.  
-👉 [See what’s new](whats-new/)
-
-### 📚 User Guides & How-To
-Task-based documentation designed to help users complete workflows
-independently and confidently.  
-👉 [Read user guides](user-guides/)
-
-### 🎯 UX Copy
-Examples of in-product microcopy, messages, and patterns aligned with modern
-UI writing guidelines.  
-👉 [Explore UX copy samples](ux-copy/)
+Choose an area to explore how I design, deliver, and scale documentation
+for enterprise SaaS products.
 
 ---
 
-## Why Docs-as-Code?
+### 📘 About Me
+**Background · Leadership · Impact**
 
-- Version-controlled documentation
-- Faster updates and parallel workflows
-- Consistent structure and quality
-- Scales with product and teams
+Learn about my career progression, documentation leadership experience,
+and how I’ve built and scaled documentation teams and systems.
 
-This portfolio demonstrates how documentation can move beyond support
-content to become a strategic product asset.
+👉 [Explore my journey and impact](about/)
+
+---
+
+### 🧭 Documentation Strategy & Metrics
+**Governance · KPIs · AI-assisted workflows**
+
+See how I approach documentation as a product — from content planning
+and governance to analytics, KPIs, and continuous improvement.
+
+👉 [View strategy and metrics](documentation-strategy/)
+
+---
+
+### 🗂 Release Notes
+**Enterprise releases · Clear change communication**
+
+Examples of structured, customer-focused release notes covering features,
+enhancements, performance, and governance updates.
+
+👉 [Browse release notes](release-notes/)
+
+---
+
+### ✨ What’s New
+**User-friendly highlights · Adoption-focused**
+
+Concise, user-oriented summaries of what changed in each release —
+written to drive awareness and adoption.
+
+👉 [See what’s new](whats-new/)
+
+---
+
+### 📚 User Guides & How-To
+**Task-based · Workflow-driven**
+
+End-to-end user guides and how-to articles designed to help users
+complete key workflows independently.
+
+👉 [Read user guides](user-guides/)
+
+---
+
+### 🎯 UX Copy
+**Microcopy · UI text · Interaction patterns**
+
+Examples of modern UX writing — modals, confirmations, errors, and
+helper text aligned with industry UI writing guidelines.
+
+👉 [Explore UX copy samples](ux-copy/)
