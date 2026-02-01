@@ -25,7 +25,7 @@ Engineering, UX, and Support teams.
 
 ## Career timeline
 <p align="center">
-  <img src="../assets/career-timeline.png" alt="Career timeline" width="700">
+  <img src="../assets/career-timeline.jpg" alt="Career timeline" width="700">
 </p>
 <p align="center">
   <em>Career progression across enterprise SaaS and platform documentation roles</em>
