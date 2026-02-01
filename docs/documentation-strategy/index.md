@@ -95,7 +95,6 @@ Documentation follows defined standards for:
 Documentation effectiveness is measured using a combination of
 quantitative and qualitative metrics.
 
----
 
 ## Documentation impact at a glance
 
