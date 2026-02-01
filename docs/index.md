@@ -13,32 +13,32 @@ impact.
 ### 📘 About Me
 Learn about my background, career progression, and documentation leadership
 experience across enterprise and SaaS products.  
-👉 **Explore my journey and impact**
+👉 [Explore my journey and impact](about/)
 
 ### 🧭 Documentation Strategy & Metrics
 See how I approach documentation as a product — from governance and planning
 to KPIs, analytics, and AI-assisted workflows.  
-👉 **View strategy and metrics**
+👉 [View strategy and metrics](documentation-strategy/)
 
 ### 🗂 Release Notes
 Examples of enterprise-grade release notes that balance completeness,
 clarity, and user relevance across multiple releases.  
-👉 **Browse release notes**
+👉 [Browse release notes](release-notes/)
 
 ### ✨ What’s New
 User-focused summaries highlighting key enhancements, improvements, and
 feature updates for each release.  
-👉 **See what’s new**
+👉 [See what’s new](whats-new/)
 
 ### 📚 User Guides & How-To
 Task-based documentation designed to help users complete workflows
 independently and confidently.  
-👉 **Read user guides**
+👉 [Read user guides](user-guides/)
 
 ### 🎯 UX Copy
 Examples of in-product microcopy, messages, and patterns aligned with modern
 UI writing guidelines.  
-👉 **Explore UX copy samples**
+👉 [Explore UX copy samples](ux-copy/)
 
 ---
 
