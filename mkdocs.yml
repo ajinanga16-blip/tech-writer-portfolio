@@ -74,6 +74,9 @@ nav:
       - Overview: how-to/index.md
       - Create a Budget: how-to/create-budget.md
 
+  - Developer API:
+    - Overview: developer-api/index.md
+    
   - FAQs:
       - Overview: faqs/index.md
 
