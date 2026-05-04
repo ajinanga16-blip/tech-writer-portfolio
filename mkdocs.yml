@@ -63,6 +63,7 @@ nav:
       - "2025.9": whats-new/2025-9.md
 
   - User Guides:
+    - Review Scenario Analysis : user-guides/review-scenario-analysis/index.md
     - Overview: user-guides/index.md
     - Forecasting Overview: user-guides/forecasting-overview/index.md
     - Build a Forecast Scenario: user-guides/build-forecast-scenario.md
