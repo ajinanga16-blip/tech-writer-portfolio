@@ -63,13 +63,13 @@ nav:
       - "2025.9": whats-new/2025-9.md
 
   - User Guides:
+    - Overview: user-guides/index.md
+    - Forecasting Overview: user-guides/forecasting-overview/index.md
+    - Build a Forecast Scenario: user-guides/build-forecast-scenario.md
+    - Review and Submit a Forecast: user-guides/review-submit-forecast.md
+    - Create and Compare Forecast Versions: user-guides/create-and-compare-forecast-versions/index.md
     - Analyze Forecast Variance Trends: user-guides/analyze-forecast-variance-trends/index.md
     - Create Forecast Scenario Variants: user-guides/create-forecast-scenario-variants/index.md
-      - Overview: user-guides/index.md
-      - Forecasting Overview: user-guides/forecasting-overview/index.md
-      - Build a Forecast Scenario: user-guides/build-forecast-scenario.md
-      - Review and Submit a Forecast: user-guides/review-submit-forecast.md
-      - Create and Compare Forecast Versions: user-guides/create-and-compare-forecast-versions/index.md
 
 
 
