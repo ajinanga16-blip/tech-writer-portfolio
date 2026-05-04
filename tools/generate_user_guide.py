@@ -1,23 +1,37 @@
 import os
 import re
+import subprocess
 
 BASE_PATH = "docs/user-guides"
+NAV_FILE = "mkdocs.yml"
 
 def slugify(text):
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
 
-def get_input(prompt):
-    print(prompt)
-    lines = []
-    while True:
-        line = input()
-        if line == "":
-            break
-        lines.append(line)
-    return "\n".join(lines)
+def update_nav(title, slug):
+    nav_entry = f'    - {title}: user-guides/{slug}/index.md\n'
 
-def create_user_guide():
-    print("\n=== User Guide Generator ===\n")
+    with open(NAV_FILE, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    new_lines = []
+    inserted = False
+
+    for line in lines:
+        new_lines.append(line)
+        if "User Guides:" in line and not inserted:
+            inserted = True
+            new_lines.append(nav_entry)
+
+    with open(NAV_FILE, "w", encoding="utf-8") as f:
+        f.writelines(new_lines)
+
+def run_command(cmd):
+    print(f"\n▶ Running: {cmd}")
+    subprocess.run(cmd, shell=True)
+
+def main():
+    print("\n=== FULL AUTOMATION PIPELINE ===\n")
 
     title = input("Enter article title: ").strip()
     slug = slugify(title)
@@ -26,53 +40,38 @@ def create_user_guide():
     file_path = os.path.join(folder_path, "index.md")
 
     if os.path.exists(folder_path):
-        print("❌ Error: Guide already exists.")
+        print("❌ Guide already exists.")
         return
 
-    print("\nEnter Overview (press ENTER twice to finish):")
-    overview = get_input("> ")
+    print("\nPaste FULL GPT Markdown (press ENTER twice to finish):")
+
+    content_lines = []
+    while True:
+        line = input()
+        if line == "":
+            break
+        content_lines.append(line)
+
+    content = "\n".join(content_lines)
 
     os.makedirs(folder_path)
-
-    content = f"""# {title}
-
-## Overview
-{overview if overview else "Describe what this feature does."}
-
-## Who should use this
-- Financial Analysts
-- Business Users
-
-## Prerequisites
-- Access to the application
-- Required permissions enabled
-
-## Steps
-1. Navigate to the relevant module
-2. Configure required inputs
-3. Review the output
-4. Save or submit
-
-## Tips and best practices
-- Validate inputs before submission
-- Use versioning for comparison
-- Review data before finalizing
-
-## Troubleshooting
-- Ensure required fields are populated
-- Check user permissions
-- Retry the process if validation fails
-
----
-
-👉 Previous: [Forecasting Overview](../forecasting-overview/)
-👉 Next: [Review and Submit a Forecast](../review-submit-forecast/)
-"""
 
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(content)
 
-    print(f"\n✅ Created: {file_path}")
+    print(f"\n✅ File created: {file_path}")
+
+    # Update navigation
+    update_nav(title, slug)
+    print("✅ Navigation updated")
+
+    # Git + deploy
+    run_command("git add .")
+    run_command(f'git commit -m "Add guide: {title}"')
+    run_command("git push origin master")
+    run_command("py -m mkdocs gh-deploy --force")
+
+    print("\n🎉 DONE: Fully automated pipeline executed")
 
 if __name__ == "__main__":
-    create_user_guide()
+    main()
