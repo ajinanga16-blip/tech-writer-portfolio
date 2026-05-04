@@ -20,8 +20,8 @@ def update_nav(title, slug):
     for line in lines:
         new_lines.append(line)
         if "User Guides:" in line and not inserted:
-            inserted = True
             new_lines.append(nav_entry)
+            inserted = True
 
     with open(NAV_FILE, "w", encoding="utf-8") as f:
         f.writelines(new_lines)
@@ -43,12 +43,12 @@ def main():
         print("❌ Guide already exists.")
         return
 
-    print("\nPaste FULL GPT Markdown (press ENTER twice to finish):")
+    print("\nPaste FULL GPT Markdown (type END on a new line to finish):")
 
     content_lines = []
     while True:
         line = input()
-        if line == "":
+        if line.strip() == "END":
             break
         content_lines.append(line)
 

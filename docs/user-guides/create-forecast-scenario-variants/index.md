@@ -1,2 +1,0 @@
-## Overview
-The Create Forecast Scenario Variants feature allows users to generate multiple versions of a base forecast scenario. This helps analyze different assumptions, compare outcomes, and support decision-making through structured scenario planning.
