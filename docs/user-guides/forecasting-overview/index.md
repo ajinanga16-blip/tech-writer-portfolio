@@ -65,5 +65,4 @@ Forecasting is typically used:
 - To support executive reporting and decision-making
 
 ---
-
-[Next: Build a Forecast Scenario ➡](build-forecast-scenario.md)
+[Next: Build a Forecast Scenario ➡](../build-forecast-scenario.md)

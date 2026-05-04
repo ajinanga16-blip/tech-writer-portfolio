@@ -64,7 +64,7 @@ nav:
 
   - User Guides:
       - Overview: user-guides/index.md
-      - Forecasting Overview: user-guides/forecasting-overview.md
+      - Forecasting Overview: user-guides/forecasting-overview/index.md
       - Build a Forecast Scenario: user-guides/build-forecast-scenario.md
       - Review and Submit a Forecast: user-guides/review-submit-forecast.md
 
