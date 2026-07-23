@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 <div class="hero">
 
 <div class="hero-badge">
@@ -12,7 +16,7 @@ Helping enterprise documentation teams understand documentation impact, uncover 
 
 <div class="hero-buttons">
 
-<a href="request-access/" class="md-button md-button--primary">
+<a href="../../contact/" class="md-button md-button--primary">
 Request Early Access
 </a>
 
@@ -25,7 +29,7 @@ About Me
 </div>
 
 ---
----
+
 
 <div class="grid cards" markdown>
 
@@ -70,37 +74,37 @@ As products scale, answering these questions manually becomes slower, more expen
 
 <div class="grid cards" markdown>
 
-- :material-file-document-outline:
+- 📄
 
     ### Documentation Impact Analysis
 
     Understand which documentation is affected by product changes so review efforts are focused where they matter most.
 
-- :material-magnify-scan:
+- 🔍
 
     ### Knowledge Discovery
 
     Surface relevant documentation, identify knowledge gaps, and improve content discoverability across repositories.
 
-- :material-image-search:
+- 🖼
 
     ### Screenshot Intelligence
 
     Detect interface changes and identify screenshots that may require updates before every release.
 
-- :material-text-box-check-outline:
+- ✨
 
     ### Content Quality Intelligence
 
     Improve consistency, readability, and documentation quality through intelligent content analysis.
 
-- :material-folder-search-outline:
+- 📚
 
     ### Repository Intelligence
 
     Organize and understand documentation repositories with intelligent indexing and metadata insights.
 
-- :material-chart-line:
+- 📊
 
     ### Documentation Health
 
@@ -151,4 +155,9 @@ I'm actively expanding the platform and exploring how AI can improve documentati
 
 If you're interested in discussing the vision, exchanging ideas, or learning more about the platform, I'd be happy to connect.
 
-[Contact Me](../../contact/){ .md-button .md-button--primary }
+<a
+href="https://www.linkedin.com/in/ankush-jinanga-89a2058a/"
+target="_blank"
+class="md-button">
+Connect on LinkedIn
+</a>
