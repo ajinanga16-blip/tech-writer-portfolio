@@ -7,7 +7,7 @@ use_directory_urls: true
 
 extra_css:
   - stylesheets/product.css
-  
+
 extra_javascript:
   - https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js
   - assets/mermaid-init.js
@@ -74,7 +74,6 @@ nav:
     - Review and Submit a Forecast: user-guides/review-submit-forecast.md
     - Create and Compare Forecast Versions: user-guides/create-and-compare-forecast-versions/index.md
     - Analyze Forecast Variance Trends: user-guides/analyze-forecast-variance-trends/index.md
-    - Create Forecast Scenario Variants: user-guides/create-forecast-scenario-variants/index.md
     - Forecast Scenario Sensitivity Analysis: user-guides/forecast-scenario-sensitivity-analysis/index.md
 
 
