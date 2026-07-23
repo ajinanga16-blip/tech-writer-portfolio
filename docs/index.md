@@ -15,6 +15,15 @@ for enterprise SaaS products.
 
 ---
 
+### 🤖 AI Products
+**Innovation · Product Thinking · Documentation Intelligence**
+
+Explore AI-powered solutions designed to modernize enterprise documentation through intelligent insights, workflow automation, and documentation intelligence.
+
+👉 [Explore AI Products](ai-products/documentation-intelligence/)
+
+---
+
 ### 📘 About Me
 **Background · Leadership · Impact**
 

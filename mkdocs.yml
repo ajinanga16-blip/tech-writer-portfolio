@@ -47,9 +47,10 @@ theme:
 
 nav:
   - Home: index.md
-  - About Me: about/index.md
   - AI Products:
       - Documentation Intelligence: ai-products/documentation-intelligence.md
+  - About Me: about/index.md
+  
   - Release Notes:
       - Overview: release-notes/index.md
       - "2026.1": release-notes/v2026-1.md
