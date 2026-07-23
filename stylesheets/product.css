@@ -24,22 +24,21 @@
     margin-bottom: 24px;
 }
 
-.hero h1{
-    font-size:3.5rem;
+.hero h1 {
+    font-size:3.2rem;
     font-weight:700;
-    line-height:1.15;
-    margin-bottom:24px;
+    line-height:1.2;
+    margin: 16px 0 24px;
 }
 
-.hero-subtitle{
-    max-width:760px;
-    font-size:1.35rem;
-    line-height:1.7;
-    margin-bottom:36px;
+.hero-subtitle {
+    font-size: 1.3rem;
+    max-width: 800px;
+    line-height: 1.6;
 }
 
-.hero{
-    padding:80px 0 60px;
+.hero {
+    padding: 40px 0;
 }
 
 .md-typeset .grid.cards > ul > li {
