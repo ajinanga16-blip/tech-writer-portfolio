@@ -5,7 +5,9 @@ site_description: Docs-as-Code portfolio showcasing enterprise SaaS documentatio
 site_url: https://ajinanga16-blip.github.io/tech-writer-portfolio/
 use_directory_urls: true
 
-
+extra_css:
+  - stylesheets/product.css
+  
 extra_javascript:
   - https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js
   - assets/mermaid-init.js
@@ -46,7 +48,8 @@ theme:
 nav:
   - Home: index.md
   - About Me: about/index.md
-
+  - AI Products:
+      - Documentation Intelligence: ai-products/documentation-intelligence.md
   - Release Notes:
       - Overview: release-notes/index.md
       - "2026.1": release-notes/v2026-1.md
